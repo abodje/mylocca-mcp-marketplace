@@ -1,0 +1,15 @@
+{
+  "name": "mylocca-marketplace",
+  "owner": {
+    "name": "MyLocca",
+    "email": "contact@app.lokapro.tech"
+  },
+  "plugins": [
+    {
+      "name": "mylocca-mcp",
+      "source": "./plugins/mylocca-mcp",
+      "description": "Accès en lecture seule à vos données MyLocca (paiements, biens, locataires, documents, performance) depuis Claude.",
+      "version": "1.0.0"
+    }
+  ]
+}

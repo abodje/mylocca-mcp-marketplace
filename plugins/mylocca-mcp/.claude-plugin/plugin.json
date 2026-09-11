@@ -1,0 +1,9 @@
+{
+  "name": "mylocca-mcp",
+  "description": "Connecte Claude à votre instance MyLocca en lecture seule : paiements, biens, locataires, documents, performance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MyLocca"
+  },
+  "homepage": "https://app.lokapro.tech"
+}

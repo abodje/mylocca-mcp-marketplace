@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mylocca": {
+      "type": "http",
+      "url": "https://app.lokapro.tech/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MYLOCCA_MCP_TOKEN}"
+      }
+    }
+  }
+}
